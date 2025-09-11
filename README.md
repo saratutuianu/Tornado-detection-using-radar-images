@@ -20,7 +20,7 @@ This project aims to explore **deep learning methods** to automatically detect t
 
 ## Dataset & Inspiration  
 
-This project was inspired by the **[TORNET project from MIT](https://github.com/valentius27/tornet)**, which provides a public framework for tornado detection using machine learning. My project aims to advance the model by taking a different approach that emphasizes the temporal dimension. 
+This project was inspired by the **[TORNET project from MIT](https://github.com/mit-ll/tornet.git)**, which provides a public framework for tornado detection using machine learning. My project aims to advance the model by taking a different approach that emphasizes the temporal dimension. 
 
 ### Dataset  
 - Based on **radar observations** of severe weather events.  
